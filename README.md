@@ -37,6 +37,7 @@ and code from [CppCon 2021](http://cppcon.org).
 - [C++20’s ＜chrono＞ Calendars and Time Zones in MSVC](Presentations/Cpp20_Chrono.pptx) by Miya Natsuhara
 - [Changing Legacy Code with Confidence: Practical Advice for Maintaining and Migrating Working Code](Presentations/changing_legacy_code.pdf) by Brian Ruth
 - [Code Analysis++](Presentations/Code_analysis.pdf) by Anastasia Kazakova
+- [Code Size Compiler Optimization And Techniques](Presentations/Embedded_Codesize_CompilerOptimization_And_Techniques.pdf) by Aditya Kumar
 - [Combining Co-Routines and Functions into a Job System](Presentations/combining_co-routines_and_functions.pdf) by Helmut Hlavacs
 - [Compile-Time Compression and Resource Generation with C++20](Presentations/CompileTimeCompression.pdf) by Ashley Roll
 - [Composable C++: Principles and Patterns](Presentations/Composable_C.pdf) by Ben Deane
